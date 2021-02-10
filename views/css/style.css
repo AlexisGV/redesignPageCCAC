@@ -1,0 +1,12 @@
+/*=============================================
+ESTILOS GENERALES
+=============================================*/
+.wrap{
+    width: 100%;
+    max-width: 1400px;
+}
+
+.header__logo{
+    max-width: 150px;
+    margin: auto;
+}
