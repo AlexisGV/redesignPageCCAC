@@ -28,6 +28,9 @@
     <?php include_once "views/pages/body.php"; ?>
     <?php include_once "views/sections/footer.php"; ?>
 
+    <script src="views/js/jquery-3.5.1.min.js"></script>
+    <script src="views/js/plantilla.js"></script>
+
 </body>
 
 </html>
